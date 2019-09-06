@@ -9,13 +9,16 @@
   },
   "dependencies": {
     "@capacitor/android": "^1.0.0-beta.8",
-    "@capacitor/cli": "1.0.0-beta.8",
+    "@capacitor/cli": "^1.0.0-beta.22",
     "@capacitor/core": "1.0.0-beta.8",
     "@capacitor/ios": "^1.0.0-beta.8",
     "@ionic/core": "4.1.2",
     "@ionic/vue": "0.0.4",
     "cache-loader": "^1.2.2",
     "date-fns": "^1.29.0",
+    "pug": "^2.0.3",
+    "pug-loader": "^2.4.0",
+    "pug-plain-loader": "^1.0.0",
     "vue": "^2.5.17",
     "vue-class-component": "^6.0.0",
     "vue-property-decorator": "^7.0.0",
@@ -23,10 +26,10 @@
     "vuex": "^3.0.1"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.0.4",
+    "@vue/cli-plugin-babel": "^3.7.0",
     "@vue/cli-plugin-eslint": "^3.0.4",
-    "@vue/cli-plugin-typescript": "^3.0.4",
-    "@vue/cli-service": "^3.0.4",
+    "@vue/cli-plugin-typescript": "^3.7.0",
+    "@vue/cli-service": "^3.7.0",
     "@vue/eslint-config-typescript": "^3.0.4",
     "typescript": "^3.0.1",
     "vue-template-compiler": "^2.5.17"

@@ -2,18 +2,18 @@
   "id": 1,
   "dateTimeStart": "2047-05-17T08:00",
   "dateTimeEnd": "2047-05-17T09:00",
-  "name": "Breakfast",
-  "location": "Main hallway",
-  "description": "Come grab breakfast with all the Ionic fanatics and talk all things Ionic",
+  "name": "Café da Manhã",
+  "location": "Corredor Principal",
+  "description": "Nemore nominati eu eum, praesent quaerendum qui ut. Eam quot ipsum omittantur ex, no expetenda dissentiunt quo. An dicunt sapientem ocurreret mea, dicta platonem nam ad. Duo fuisset repudiandae at, prima philosophia an sea.",
   "speakerIds": [],
-  "tracks": ["Food"]
+  "tracks": ["Comida"]
 }, {
   "id": 2,
   "dateTimeStart": "2047-05-17T09:00",
   "dateTimeEnd": "2047-05-17T09:30",
   "name": "Introduction to Appcamp.io",
   "location": "Room 2203",
-  "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+  "description": "Nemore nominati eu eum, praesent quaerendum qui ut. Eam quot ipsum omittantur ex, no expetenda dissentiunt quo. An dicunt sapientem ocurreret mea, dicta platonem nam ad. Duo fuisset repudiandae at, prima philosophia an sea.",
   "speakerIds": [5],
   "tracks": ["Ionic"]
 }, {
@@ -22,7 +22,7 @@
   "dateTimeEnd": "2047-05-17T09:45",
   "name": "Getting started with Ionic",
   "location": "Room 2202",
-  "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+  "description": "Nemore nominati eu eum, praesent quaerendum qui ut. Eam quot ipsum omittantur ex, no expetenda dissentiunt quo. An dicunt sapientem ocurreret mea, dicta platonem nam ad. Duo fuisset repudiandae at, prima philosophia an sea.",
   "speakerIds": [13],
   "tracks": ["Ionic"]
 }, {
@@ -31,7 +31,7 @@
   "dateTimeEnd": "2047-05-17T10:00",
   "name": "Tooling for Ionic",
   "location": "Room 2201",
-  "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+  "description": "Nemore nominati eu eum, praesent quaerendum qui ut. Eam quot ipsum omittantur ex, no expetenda dissentiunt quo. An dicunt sapientem ocurreret mea, dicta platonem nam ad. Duo fuisset repudiandae at, prima philosophia an sea.",
   "speakerIds": [12],
   "tracks": ["Tooling"]
 }, {
@@ -40,7 +40,7 @@
   "dateTimeEnd": "2047-05-17T10:15",
   "name": "Migrating to Ionic2",
   "location": "Room 2201",
-  "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+  "description": "Nemore nominati eu eum, praesent quaerendum qui ut. Eam quot ipsum omittantur ex, no expetenda dissentiunt quo. An dicunt sapientem ocurreret mea, dicta platonem nam ad. Duo fuisset repudiandae at, prima philosophia an sea.",
   "speakerIds": [4, 9],
   "tracks": ["Ionic"]
 }, {
@@ -49,7 +49,7 @@
   "dateTimeEnd": "2047-05-17T10:30",
   "name": "The evolution of Ionicons",
   "location": "Room 2202",
-  "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+  "description": "Nemore nominati eu eum, praesent quaerendum qui ut. Eam quot ipsum omittantur ex, no expetenda dissentiunt quo. An dicunt sapientem ocurreret mea, dicta platonem nam ad. Duo fuisset repudiandae at, prima philosophia an sea.",
   "speakerIds": [7, 4],
   "tracks": ["Design"]
 }, {
@@ -58,7 +58,7 @@
   "dateTimeEnd": "2047-05-17T11:00",
   "name": "Ionic.io Services",
   "location": "Room 2202",
-  "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+  "description": "Nemore nominati eu eum, praesent quaerendum qui ut. Eam quot ipsum omittantur ex, no expetenda dissentiunt quo. An dicunt sapientem ocurreret mea, dicta platonem nam ad. Duo fuisset repudiandae at, prima philosophia an sea.",
   "speakerIds": [2],
   "tracks": ["Services"]
 }, {
@@ -67,7 +67,7 @@
   "dateTimeEnd": "2047-05-17T11:45",
   "name": "Ionic Workshop",
   "location": "Room 2201",
-  "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+  "description": "Nemore nominati eu eum, praesent quaerendum qui ut. Eam quot ipsum omittantur ex, no expetenda dissentiunt quo. An dicunt sapientem ocurreret mea, dicta platonem nam ad. Duo fuisset repudiandae at, prima philosophia an sea.",
   "speakerIds": [8, 9],
   "tracks": ["Workshop"]
 }, {
@@ -76,7 +76,7 @@
   "dateTimeEnd": "2047-05-17T11:50",
   "name": "Community Interaction",
   "location": "Room 2203",
-  "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+  "description": "Nemore nominati eu eum, praesent quaerendum qui ut. Eam quot ipsum omittantur ex, no expetenda dissentiunt quo. An dicunt sapientem ocurreret mea, dicta platonem nam ad. Duo fuisset repudiandae at, prima philosophia an sea.",
   "speakerIds": [9, 6],
   "tracks": ["Communication"]
 }, {
@@ -130,7 +130,7 @@
   "dateTimeEnd": "2047-05-17T14:30",
   "name": "Push Notifications in Ionic",
   "location": "Room 2202",
-  "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+  "description": "Nemore nominati eu eum, praesent quaerendum qui ut. Eam quot ipsum omittantur ex, no expetenda dissentiunt quo. An dicunt sapientem ocurreret mea, dicta platonem nam ad. Duo fuisset repudiandae at, prima philosophia an sea.",
   "speakerIds": [1, 2],
   "tracks": ["Services"]
 }, {
@@ -139,7 +139,7 @@
   "dateTimeEnd": "2047-05-17T14:45",
   "name": "Ionic Documentation",
   "location": "Room 2202",
-  "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+  "description": "Nemore nominati eu eum, praesent quaerendum qui ut. Eam quot ipsum omittantur ex, no expetenda dissentiunt quo. An dicunt sapientem ocurreret mea, dicta platonem nam ad. Duo fuisset repudiandae at, prima philosophia an sea.",
   "speakerIds": [3],
   "tracks": ["Documentation"]
 }, {
@@ -148,7 +148,7 @@
   "dateTimeEnd": "2047-05-17T15:00",
   "name": "UX planning in Ionic",
   "location": "Room 2203",
-  "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+  "description": "Nemore nominati eu eum, praesent quaerendum qui ut. Eam quot ipsum omittantur ex, no expetenda dissentiunt quo. An dicunt sapientem ocurreret mea, dicta platonem nam ad. Duo fuisset repudiandae at, prima philosophia an sea.",
   "speakerIds": [7, 5],
   "tracks": ["Design"]
 }, {
@@ -157,7 +157,7 @@
   "dateTimeEnd": "2047-05-17T15:30",
   "name": "Directives in Ionic",
   "location": "Room 2201",
-  "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+  "description": "Nemore nominati eu eum, praesent quaerendum qui ut. Eam quot ipsum omittantur ex, no expetenda dissentiunt quo. An dicunt sapientem ocurreret mea, dicta platonem nam ad. Duo fuisset repudiandae at, prima philosophia an sea.",
   "speakerIds": [13],
   "tracks": ["Angular"]
 }, {
@@ -166,7 +166,7 @@
   "dateTimeEnd": "2047-05-17T15:45",
   "name": "Mobile States",
   "location": "Room 2202",
-  "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
+  "description": "Nemore nominati eu eum, praesent quaerendum qui ut. Eam quot ipsum omittantur ex, no expetenda dissentiunt quo. An dicunt sapientem ocurreret mea, dicta platonem nam ad. Duo fuisset repudiandae at, prima philosophia an sea.",
   "speakerIds": [12],
   "tracks": ["Navigation"]
 }]

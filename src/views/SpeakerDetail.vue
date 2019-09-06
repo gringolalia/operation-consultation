@@ -3,7 +3,7 @@
     <ion-header>
       <ion-toolbar>
         <ion-buttons slot="start">
-          <ion-back-button text="Speakers"></ion-back-button>
+          <ion-back-button text="Palestrantes"></ion-back-button>
         </ion-buttons>
         <ion-title>{{speaker ? speaker.name : ''}}</ion-title>
       </ion-toolbar>

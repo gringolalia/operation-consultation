@@ -1,53 +1,70 @@
-<template>
-<div class="ion-page">
-  <ion-header>
-    <ion-toolbar color="primary">
-      <ion-buttons slot="start">
-        <ion-menu-button></ion-menu-button>
-      </ion-buttons>
-      <ion-title>About</ion-title>
-      <ion-buttons slot="end">
-        <ion-button @click="presentPopover($event)">
-          <ion-icon slot="icon-only" name="more"></ion-icon>
-        </ion-button>
-      </ion-buttons>
-    </ion-toolbar>
-  </ion-header>
+<template lang="pug">
+.ion-page
+  ion-header
+    ion-toolbar(color='primary')
+      ion-buttons(slot='start')
+        ion-menu-button
 
-  <ion-content>
-    <div class="about-header">
-      <img src="/assets/img/ionic-logo-white.svg" alt="ionic logo">
-    </div>
-    <div padding class="about-info">
-      <h4>Ionic Conference</h4>
+      ion-title
+        i.fas.fa-sun.fa-2x.ion-margin-end
+        | Hyvästi Julma Maailma
 
-      <ion-list lines="none">
-        <ion-item>
-          <ion-icon name="calendar" slot="start"></ion-icon>
-          <ion-label>Date</ion-label>
-          <ion-datetime displayFormat="MMM DD, YYYY" max="2056" :value="conferenceStart"></ion-datetime>
-        </ion-item>
+      ion-buttons(slot='end')
+        ion-button(@click="openModal")
+          //- ion-button(@click='presentPopover($event)')
+          ion-icon(slot='icon-only', name='more')
 
-        <ion-item>
-          <ion-icon name="pin" slot="start"></ion-icon>
-          <ion-label>Location</ion-label>
-          <ion-select>
-            <ion-select-option value="madison" selected>Madison, WI</ion-select-option>
-            <ion-select-option value="austin">Austin, TX</ion-select-option>
-            <ion-select-option value="chicago">Chicago, IL</ion-select-option>
-            <ion-select-option value="seattle">Seattle, WA</ion-select-option>
-          </ion-select>
-        </ion-item>
-      </ion-list>
 
-      <p>
-        The Ionic Conference is a one-day conference featuring talks from the Ionic team. It is focused on Ionic applications being built with Ionic 2. This includes migrating apps from Ionic 1 to Ionic 2, Angular concepts, Webpack, Sass, and many other technologies
-        used in Ionic 2. Tickets are completely sold out, and we’re expecting more than 1000 developers – making this the largest Ionic conference ever!
-      </p>
-    </div>
-  </ion-content>
-</div>
+  ion-content
+    .about-header
+      img(src='/assets/img/white-alchemy-sulphuric.svg', alt='ionic logo')
+
+    .about-info(padding='')
+      h2 An Anionic Groupthink Circus
+
+      ion-list(lines='none')
+        ion-item
+          //- ion-icon(name='infinite', slot='start')
+          i.fas.fa-chess-queen.fa-lg.ion-margin-end
+          ion-label Essa Data Querida
+
+          ion-datetime(displayformat='MMM DD, YYYY', max='2056', :value='conferenceStart')
+
+        ion-item
+          i.fas.fa-chess-knight.fa-lg.ion-margin-end
+          ion-label
+            | Onde Acontece
+
+          ion-select
+            ion-select-option(value='madison' selected) San Pavlov
+
+            ion-select-option(value='austin') Manaus Quarenta Graus
+
+            ion-select-option(value='chicago') Rio de Dinheiro
+
+            ion-select-option(value='seattle') Brasília Sicília
+
+      p
+        i.fas.fa-chess.fa-3x.fa-pull-left
+        | Nemore nominati eu eum, praesent quaerendum qui ut. Eam quot ipsum omittantur ex, no expetenda dissentiunt quo. An dicunt sapientem ocurreret mea, dicta platonem nam ad. Duo fuisset repudiandae at, prima philosophia an sea.
+      p
+        | Nemore nominati eu eum, praesent quaerendum qui ut. Eam quot ipsum omittantur ex, no expetenda dissentiunt quo. An dicunt sapientem ocurreret mea, dicta platonem nam ad. Duo fuisset repudiandae at, prima philosophia an sea.
 </template>
+
+<script>
+export default {
+  name: 'Modal',
+  props: {
+    title: { type: String, default: 'Holy Modal Rounders' },
+  },
+  data() {
+    return {
+      content: 'Eripuit interesset at qui, quis discere ei sea, ea nec graece postulant. Eligendi apeirian ei sea. Ei movet bonorum est, pri no putent voluptatum, justo complectitur at vis. Sumo fugit ei vim, qui meliore partiendo liberavisse ad, eam tempor postulant complectitur id. Mea ad utinam nullam virtute, ne assum adversarium mei.',
+    }
+  },
+}
+</script>
+
 
 <script lang="ts">
   import { Component, Prop, Vue } from 'vue-property-decorator';
