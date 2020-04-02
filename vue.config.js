@@ -1,4 +1,7 @@
-module.exports = {
+  module.exports = {
+    publicPath: process.env.NODE_ENV === 'production'
+      ? '/operation-consultation/'
+      : '/',
   lintOnSave: false,
   chainWebpack: config => {
     // config.plugins.delete('preload');
